@@ -44,12 +44,7 @@ public class operadoresRelacionais {
         System.out.println("b1 == b2 " + (b1 == b2));
         System.out.println("b1 != b2 " + (b1 != b2));
         System.out.println("b1 > b2 da erro " );
-        System.out.println("b1 <= b2  da erro");
-
-        System.out.println("b1 == b2 " + (b1 == b2));
-        System.out.println("b1 != b2 " + (b1 != b2));
-        System.out.println("b1 > b2 da erro " );
-        System.out.println("b1 <= b2  da erro ");
+        System.out.println("b1 <= b2  da erro")
 
         System.out.println("i2 > f1 " + (i2 > f2));
         System.out.println("d1 == h1 " + (d1 != h1));
